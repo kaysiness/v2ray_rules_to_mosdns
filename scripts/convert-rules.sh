@@ -12,8 +12,8 @@ convert_geosite_category() {
 
 # 要转换的类别列表
 categories=(
-    "netflix"
-    "disney"
+    "category-entertainment"
+    "bilibili"
 )
 
 # 清理并创建规则目录
