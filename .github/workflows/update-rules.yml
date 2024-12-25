@@ -1,36 +1,34 @@
-# .github/workflows/update-rules.yml
 name: Update Rules
-
 on:
   schedule:
-    - cron: '20 6 * * *'  # 每天 UTC 6:20 运行
-  workflow_dispatch:      # 允许手动触发
+    - cron: '20 6 * * *' # 每天 UTC 6:20 运行
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+      
       - name: Setup directories
         run: |
           mkdir -p temp
           mkdir -p rules
-
-      - name: Download dat files
+          
+      - name: Download dat files and mosdns
         run: |
           wget https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat -O temp/geosite.dat
-          wget https://github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-64.zip -O temp/v2ray.zip
-          cd temp && unzip -o v2ray.zip -d v2ray && chmod +x v2ray/v2ray
+          wget https://github.com/IrineSistiana/mosdns/releases/download/v4.5.3/mosdns-linux-amd64.zip -O temp/mosdns.zip
+          cd temp && unzip -o mosdns.zip && chmod +x mosdns
           
       - name: Convert rules
         run: |
           bash ./scripts/convert-rules.sh
-
+          
       - name: Update timestamp
         run: |
           date +"%Y-%m-%d %H:%M:%S UTC" > rules/last_updated.txt
-
+          
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
