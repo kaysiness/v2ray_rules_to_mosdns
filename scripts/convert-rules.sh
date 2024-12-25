@@ -7,7 +7,7 @@ convert_geosite_category() {
     local category="$1"
     local dat_file="$2"
     echo "Converting geosite category: $category from $dat_file"
-    ./temp/v2ray geosite --dat="$dat_file" --category="$category" | \
+    ./temp/v2ray/v2ray geosite --dat="$dat_file" --category="$category" | \
         grep -Ev '^include:' | \
         grep -Ev '^$' | \
         grep -Ev '^#' > "rules/${category}.txt"

@@ -20,10 +20,9 @@ jobs:
       - name: Download dat files
         run: |
           wget https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat -O temp/geosite.dat
-          wget https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat -O temp/geoip.dat
           wget https://github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-64.zip -O temp/v2ray.zip
-          cd temp && unzip v2ray.zip && chmod +x v2ray
-
+          cd temp && unzip -o v2ray.zip -d v2ray && chmod +x v2ray/v2ray
+          
       - name: Convert rules
         run: |
           bash ./scripts/convert-rules.sh
