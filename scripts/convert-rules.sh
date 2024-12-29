@@ -14,6 +14,7 @@ convert_geosite_category() {
 categories=(
     "category-entertainment"
     "bilibili"
+    "discoveryplus"
 )
 
 # 清理并创建规则目录
