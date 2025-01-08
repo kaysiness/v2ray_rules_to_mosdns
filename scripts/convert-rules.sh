@@ -15,7 +15,6 @@ categories=(
     "category-entertainment"
     "bilibili"
     "discoveryplus"
-    "18comic"
 )
 
 # 清理并创建规则目录
