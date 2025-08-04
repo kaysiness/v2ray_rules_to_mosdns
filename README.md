@@ -6,7 +6,6 @@
 # 轉換的規則集合
 ## GeoSite.dat
 * cn
-* gfw
 * geolocation-!cn
 * category-ads-all
 
