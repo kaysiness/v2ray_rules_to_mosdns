@@ -18,6 +18,7 @@ jobs:
       - name: Download dat files and mosdns
         run: |
           wget https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat -O temp/geosite.dat
+          wget https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat -O temp/geoip.dat
           wget https://github.com/IrineSistiana/mosdns/releases/download/v4.5.3/mosdns-linux-amd64.zip -O temp/mosdns.zip
           cd temp && unzip -o mosdns.zip && chmod +x mosdns
           
@@ -40,5 +41,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/ypxun/v2ray_rules_to_mosdns.git
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/kaysiness/v2ray_rules_to_mosdns.git
           git push
