@@ -539,6 +539,8 @@ full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
 full:tj-pod1-smp-device.apple.com
+full:tj-pod2-smp-device.apple.com
+full:tj-pod3-smp-device.apple.com
 full:tools.google.com
 full:tp.louisvuitton.com
 full:universal-activity-service.itunes.apple.com
@@ -629,8 +631,8 @@ citic
 baidu
 anquan
 alipay
-jsrhzh.com
-guidechem.com
+jsrongjin.com
+zhliqi.com
 001d628661009.beer
 001daima.com
 001jm.com
@@ -11096,7 +11098,7 @@ ahmwgroup.com
 ahnanfang.com
 ahnec.com
 ahnluh.com
-ahnmc.com
+jssgjs.com
 ahno-tool.com
 ahnxs.com
 ahome365.com
@@ -17011,7 +17013,7 @@ bjnai.net
 bjnaxl.com
 bjnja.com
 bjnkzx.com
-bjnsr.com
+jsshfcw.com
 bjnxgbyy.com
 bjota.com
 bjp321.com
@@ -22453,7 +22455,7 @@ chinatelling.com
 chinatet.com
 chinatex.com
 chinatex.net
-jssfzg.com
+chinatex.org
 chinatg.com
 chinathinksbig.com
 chinatianyin.com
@@ -37015,7 +37017,7 @@ gank.io
 gankang.com
 gankao.com
 gankaosheng.com
-jssgjs.com
+gankgames.com
 gankh5.com
 ganlj.com
 ganlongjt.com
@@ -40139,7 +40141,7 @@ guicaiyun.com
 guichanghj.com
 guichuideng.com
 guichuxing.com
-jssgjjt.com
+guidechem.com
 guideir.com
 guideofsh.com
 guiderank-app.com
@@ -56043,9 +56045,9 @@ jsrdgg.com
 jsrdsw.com
 jsrea.com
 jsrenshi.com
-0.zone
+jsrhzh.com
 jsright.com
-jsrongjin.com
+0.zone
 jsrpebh.com
 jsrrcb.com
 jsrsks.com
@@ -56067,11 +56069,11 @@ jssdh.com
 jssem.com
 jssfgl.com
 jssfx.com
-chinatex.org
+jssfzg.com
+jssgjjt.com
+ahnmc.com
 00117163.xyz
-gankgames.com
-jsshasczzyy.com
-jsshfcw.com
+bjnsr.com
 jsshichuang.com
 jsshow.net
 jsshrzx.com
@@ -61225,6 +61227,7 @@ lifeup.vip
 lifevc.com
 lifevccdn.com
 lifeweeker.com
+lifexue.com
 lifeyk.com
 lifeyn.net
 lifezb.com
@@ -63917,6 +63920,7 @@ madailicai.com
 madajiefood.com
 madaomall.com
 madboxi.com
+made-in-china.com
 madefuns.com
 madeinchinastone.com
 madewei.com
@@ -65655,6 +65659,7 @@ microwu.com
 microxiang.com
 microyan.com
 microzuji.com
+micstatic.com
 mictormedical.com
 micu.hk
 micun.com
@@ -73257,6 +73262,7 @@ powerchinayun.com
 powercx.com
 powerde.com
 powereasy.net
+poweremarket.com
 powerex1.com
 powerflow-tech.com
 powerfulchina.com
@@ -108521,7 +108527,7 @@ zhl.com
 zhld.com
 zhlhh.com
 zhliaoshe.com
-zhliqi.com
+jsshasczzyy.com
 zhljq.com
 zhlm.com
 zhltech.net
