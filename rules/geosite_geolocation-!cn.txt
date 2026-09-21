@@ -204,9 +204,10 @@ full:fandom.zendesk.com
 full:faronics.kayako.com
 full:favoritescc-hamivideo2.cdn.hinet.net
 full:fbcdn-a.akamaihd.net
-full:firebase.google.com
 full:firebase.googleapis.com
 full:firebaseappcheck.googleapis.com
+full:firebaseappdistribution.googleapis.com
+full:firebaseapptesters.googleapis.com
 full:firebasedynamiclinks-ipv4.googleapis.com
 full:firebasedynamiclinks-ipv6.googleapis.com
 full:firebasedynamiclinks.googleapis.com
@@ -346,6 +347,7 @@ full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
 full:osu.ppy.sh
 full:p-events-delivery.akamaized.net
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 full:p16-tiktokcdn-com.akamaized.net
 full:packages.microsoft.com
 full:paper-attachments.s3.amazonaws.com
@@ -818,8 +820,8 @@ aws
 apple
 android
 amazon
-rupress.org
-appsto.re
+ruptly.tv
+zpagov.net
 12diasderegalosdeitunes.pe
 12joursdecadeauxdeitunes.com
 12vpn.com
@@ -1558,7 +1560,7 @@ zscaler.com
 zqqpwz.com
 zpn.im
 zpath.com
-zpagov.net
+jivara.global
 zozotown.com
 zotero.org
 adidas.cz
@@ -2954,7 +2956,7 @@ appsmail.ru
 appsocks.net
 appsonebay.net
 appspot.com
-jivara.global
+appsto.re
 youversion.com
 appstore.hk
 appstore.my
@@ -6469,6 +6471,7 @@ code-class.ru
 code.org
 codeberg.org
 codeberg.page
+codebuff.com
 codecademy.com
 codeforaliving.io
 codeforces.com
@@ -9161,7 +9164,7 @@ facerbooik.com
 facerbook.com
 facesbooc.com
 facesofnyfw.com
-jiuse823.com
+facesoftibetanselfimmolators.info
 facesounds.com
 facetime.net
 facetook.com
@@ -9586,10 +9589,12 @@ fiotolia.com
 fire-emblem-heroes.com
 firearmsworld.net
 firebase.com
+firebase.dev
 firebase.io
 firebaseapp.com
 firebaseio.com
 fireemblemawakening.com
+firefox-portal-detection.com
 firefox.com
 firefox.hu
 firefoxtweetmachine.com
@@ -10004,6 +10009,7 @@ freebigmovies.com
 freebrowser.org
 freebs.com
 freebsd.org
+freebuff.com
 freecamsfan.com
 freecartoons.biz
 freechatnow.com
@@ -12730,7 +12736,7 @@ ifcss.org
 ifontcloud.com
 iframejav.com
 ifreewares.com
-jivo.chat
+ift.tt
 ifuckedmy.mom
 ifuckedtheboss.com
 ig.me
@@ -12765,7 +12771,7 @@ xml-training-guide.com
 iirmll.com
 ijavhd.com
 ijavtorrent.com
-ikanhm.xyz
+jiuse823.com
 ikanmh.xyz
 ikea.ae
 ikea.at
@@ -13950,9 +13956,9 @@ jiuse.io
 jiuse6666.com
 jiuse821.com
 jiuse822.com
-facesoftibetanselfimmolators.info
+ikanhm.xyz
 12diasderegalosdeitunes.hn
-ift.tt
+shahvani.com
 jivo.ru
 xbox.org
 xbox.eu
@@ -20499,9 +20505,9 @@ runnike.com
 runningnike.com
 runporn.com
 runwayescorts.com
-000webhost.com
+rupress.org
 ruptly.agency
-ruptly.tv
+000webhost.com
 ruptly.video
 rurtnews.com
 rusfinance.ru
@@ -21166,7 +21172,7 @@ shadowsocks.org
 shadowverse-evolve.com
 shahit.biz
 shahr-bank.ir
-shahvani.com
+jivo.chat
 shahvani.site
 shakethesnake.com
 shameless.com
@@ -22226,6 +22232,9 @@ stripcamfun.com
 stripchat.com
 stripe-terminal-local-reader.net
 stripe.com
+stripe.dev
+stripe.events
+stripe.global
 stripe.network
 stripecdn.com
 stripparadise.com
@@ -22749,6 +22758,7 @@ textnow.com
 textnow.me
 texttobuy.org
 texture.com
+tfbnw.net
 vpnproxymaster.com
 tferwq.com
 tfhub.dev
